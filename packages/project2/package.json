@@ -1,0 +1,27 @@
+{
+  "name": "project2",
+  "version": "1.0.2",
+  "description": "> TODO: description",
+  "author": "lixiaolong <xiaolong.li@shopee.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/project2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.shopee.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitlab@git.garena.com:xiaolong.li/lerna-study.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "gitHead": "d484ff38b504aac1451b02f08490e666098240f0"
+}
